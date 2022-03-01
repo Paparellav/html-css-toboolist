@@ -76,6 +76,7 @@ main {
 
 }
 
+/* lista annidata */
 ul {
     list-style: none;
     color: #464a53;
@@ -91,6 +92,7 @@ ul {
     padding-top: 12px;
 }
 
+/* vari badge */
 .sticker {
     display: inline-block;
     width: 90px;
