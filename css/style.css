@@ -19,12 +19,10 @@ body {
     background-color: white;
     height: 80px;
     padding-left: 20px;
-
 }
 
 .logo-header {
     vertical-align: middle;
-    
 }
 
 .logo-title {
@@ -42,7 +40,6 @@ body {
     padding-left: 60px;
     line-height: 60px;
     margin-bottom: 5px;
-    
 }
 
 .nav-first-button {
@@ -52,9 +49,6 @@ body {
     border: 0;
     background-color: #47adf1;
     color: white;
-    
-
-
 }
 
 .nav-second-button {
@@ -73,7 +67,6 @@ main {
     width: 70%;
     background-color: white;
     padding: 5%;
-
 }
 
 /* lista annidata */
@@ -84,7 +77,6 @@ ul {
 
 .main-item {
     font-size: 1.4em;
-    
 }
 
 .second-item {
@@ -105,32 +97,26 @@ ul {
 
 .editorial {
     background-color: #47adf1;
-    
 }
 
 .q1-goals {
     background-color: #9c72e4;
-    
 }
 
 .recruiting {
     background-color: #65c0a9;
-    
 }
 
 .mobile {
     background-color: #f29e33;
-    
 }
 
 .website {
     background-color: #d863a1;
-    
 }
 
 .sales {
     background-color: #b0c926;
-    
 }
 
 /* form */
