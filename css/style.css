@@ -82,78 +82,51 @@ ul {
 }
 
 .main-item {
-    font-size: 1.5em;
+    font-size: 1.4em;
     
 }
 
 .second-item {
-    padding-left: 10px;
-    padding-top: 10px;
+    padding-left: 12px;
+    padding-top: 12px;
+}
+
+.sticker {
+    display: inline-block;
+    width: 90px;
+    text-align: center;
+    padding: 10px;
+    -webkit-border-radius: 15px 15px 15px 15px;
+    font-size: 0.5em;
+    color: white;
 }
 
 .editorial {
-    display: inline-block;
-    width: 90px;
-    text-align: center;
-    padding: 10px;
-    -webkit-border-radius: 15px 15px 15px 15px;
-    font-size: 0.5em;
     background-color: #47adf1;
-    color: white;
+    
 }
 
 .q1-goals {
-    display: inline-block;
-    width: 90px;
-    text-align: center;
-    padding: 10px;
-    -webkit-border-radius: 15px 15px 15px 15px;
-    font-size: 0.5em;
     background-color: #9c72e4;
-    color: white;
+    
 }
 
 .recruiting {
-    display: inline-block;
-    width: 90px;
-    text-align: center;
-    padding: 10px;
-    -webkit-border-radius: 15px 15px 15px 15px;
-    font-size: 0.5em;
     background-color: #65c0a9;
-    color: white;
+    
 }
 
 .mobile {
-    display: inline-block;
-    width: 90px;
-    text-align: center;
-    padding: 10px;
-    -webkit-border-radius: 15px 15px 15px 15px;
-    font-size: 0.5em;
     background-color: #f29e33;
-    color: white;
+    
 }
 
 .website {
-    display: inline-block;
-    width: 90px;
-    text-align: center;
-    padding: 10px;
-    -webkit-border-radius: 15px 15px 15px 15px;
-    font-size: 0.5em;
     background-color: #d863a1;
-    color: white;
+    
 }
 
 .sales {
-    display: inline-block;
-    width: 90px;
-    text-align: center;
-    padding: 10px;
-    -webkit-border-radius: 15px 15px 15px 15px;
-    font-size: 0.5em;
     background-color: #b0c926;
-    color: white;
-
+    
 }
