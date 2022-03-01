@@ -87,7 +87,7 @@ ul {
 }
 
 .second-item {
-    padding-left: 12px;
+    padding-left: 8px;
     padding-top: 12px;
 }
 
@@ -129,4 +129,18 @@ ul {
 .sales {
     background-color: #b0c926;
     
+}
+
+.checkform {
+    border: 1px solid #72c5b1;
+    padding: 3px;
+    border-radius: 50%;
+    color: #72c5b1;
+}
+
+.crossform {
+    border: 1px solid #ee827d;
+    padding: 3px;
+    border-radius: 50%;
+    color: #ee827d;
 }
