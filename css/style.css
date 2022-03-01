@@ -7,7 +7,7 @@
 
 body {
     background-color: #f6f8f9;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Averia Sans Libre', cursive;
 }
 
 .mb-2 {
@@ -42,7 +42,7 @@ body {
     margin-bottom: 5px;
 }
 
-.nav-first-button {
+#nav-first-button {
     width: 70px;
     height: 30px;
     -webkit-border-radius: 5px 5px 5px 5px;
@@ -51,7 +51,7 @@ body {
     color: white;
 }
 
-.nav-second-button {
+#nav-second-button {
     width: 100px;
     height: 30px;
     -webkit-border-radius: 5px 5px 5px 5px;
