@@ -18,7 +18,7 @@ body {
 .container {
     background-color: white;
     height: 80px;
-    padding-left: 20px;
+    padding-left: 1.5em;
 }
 
 .logo-header {
@@ -121,7 +121,11 @@ ul {
 
 /* form */
 .form {
-    vertical-align: middle;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    line-height: 15px;
     border-radius: 50%;
 }
 
